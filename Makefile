@@ -1,6 +1,6 @@
 
 # Image URL to use all building/pushing image targets
-IMG ?= paologallinaharbur/controller:latest3
+IMG ?= paologallinaharbur/controller:latest
 
 all: test manager
 

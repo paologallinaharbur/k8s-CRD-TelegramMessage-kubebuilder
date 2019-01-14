@@ -1,0 +1,13 @@
+apiVersion: harbur.harbur.io/v1beta1
+kind: TelegramMessage
+metadata:
+  generation: 1
+  labels:
+    sdfffcontroller-tools.k8s.io: "1.0"
+  name: ghjdfciaociao
+  namespace: default
+spec:
+  messagetodeliver: "Hello Medium"
+  token: "your-token"
+  chatid: "your-chat-id"
+status: {}

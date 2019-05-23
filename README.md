@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/paologallinaharbur/k8s-CRD-TelegramMessage-kubebuilder/badge.svg?targetFile=Gopkg.lock)](https://snyk.io/test/github/paologallinaharbur/k8s-CRD-TelegramMessage-kubebuilder?targetFile=Gopkg.lock)
+
 # kubebuilder-TelegramMessage-example
 
 That is a demo repository to add a controller managing a custom CRD to a kubernetes clusters.
